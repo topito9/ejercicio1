@@ -3,7 +3,7 @@ public class ClaseDAM1 {
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
-		// TODO Cada estudiante aÒadir· su nombre
+		// TODO Cada estudiante a√±adir√° su nombre.
 		String profesor = "Luis de Blas";
 
 		String al01_SergioAmor = "";
